@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Demo App</string>
+    <string name="home_image_slider_here">Image Slider Here</string>
+    <string name="home_latest_events_here">Latest Events here</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="main_nations_text">The Association of South East Asian nations</string>
+    <string name="about_placeholder_text">About Page</string>
+    <string name="home_lorem_text">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sit amet luctus orci. Curabitur et bibendum felis.
+        Vestibulum placerat dapibus nunc, ac vehicula justo bibendum vitae. Nunc ut est et nulla eleifend auctor.
+        Morbi eu rhoncus mauris. Quisque placerat ornare lacus. Nulla malesuada lacinia massa non vehicula.
+    </string>
+</resources>
